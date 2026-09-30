@@ -3,12 +3,14 @@ layout: post
 title: "How to Create a Free Blog on GitHub Pages (Step by Step)"
 description: "A beginner-friendly guide to launching a free blog on GitHub Pages with Jekyll, using only your browser. No software to install."
 categories: guides
-image: /assets/images/github-pages-steps-wide.png
+image: /assets/images/github-pages-steps.png
 ```
 
 I wanted a simple place to keep the marketing notes I learn along the way, and to share them with other people. I chose GitHub Pages because hosting is free, pages load fast, and I can write everything in Markdown.
 
 This guide walks through exactly how I set it up. You only need a web browser and about 20 minutes.
+
+![Infographic: six steps to launch a free blog on GitHub Pages](/assets/images/github-pages-steps.png)
 
 ## What you need
 
