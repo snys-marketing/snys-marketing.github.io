@@ -1,0 +1,8 @@
+title: Marketing Notes
+description: What I learn about SEO, content, email and social media marketing
+lang: en
+theme: minima
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
