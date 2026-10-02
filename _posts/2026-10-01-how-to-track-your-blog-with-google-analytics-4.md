@@ -65,7 +65,7 @@ Open the **Actions** tab in your repository. When the latest run shows a green t
 
 ## Step 4: Check that the tag is installed
 
-There are two ways to check:
+There are two ways to check
 
 - Open your blog, press Ctrl+U to view the page source, and search for `googletagmanager`. If you find it, the tag is on the page.
 - In GA4, click **Test installation** on the setup screen. When it works you'll see a message that the tag was detected on your site.
