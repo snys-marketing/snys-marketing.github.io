@@ -1,10 +1,9 @@
-```
-yaml
+---
 layout: post
 title: "How to Track Your GitHub Pages Blog with Google Analytics 4"
 description: "A step-by-step guide to adding Google Analytics 4 to a Jekyll blog on GitHub Pages, so you can see how many people read each post."
 categories: analytics
-```
+---
 
 Once my first post was live, I wanted to know whether anyone was reading it. GitHub Pages has no built-in stats, so I connected the blog to Google Analytics 4 (GA4). The standard version is free, and the whole thing took about 15 minutes, including one detour that I'll point out below.
 
